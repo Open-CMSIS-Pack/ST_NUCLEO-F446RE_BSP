@@ -2,7 +2,7 @@
 <package schemaVersion="1.7.36" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="https://raw.githubusercontent.com/Open-CMSIS-Pack/Open-CMSIS-Pack-Spec/v1.7.36/schema/PACK.xsd">
   <name>NUCLEO-F446RE_BSP</name>
   <vendor>Keil</vendor>
-  <description>STMicroelectronics STM32F4 Series NUCLEO-F446RE Board Support Pack</description>
+  <description overview="Documentation/OVERVIEW.md">STMicroelectronics STM32F4 Series NUCLEO-F446RE Board Support Pack</description>
   <url>https://www.keil.com/pack/</url>
   <repository type="git">https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP.git</repository>
   <license>LICENSE</license>
@@ -71,7 +71,7 @@
     <!-- NUCLEO-F446RE -->
     <board vendor="STMicroelectronics" name="NUCLEO-F446RE" revision="Rev.C"
            salesContact="https://www.st.com/content/st_com/en/contact-us.html">
-      <description>STM32 Evaluation development board with STM32F446RETx MCU</description>
+      <description>STM32 Nucleo-64 development board with STM32F446RETx MCU</description>
       <image small="Images/nucleo-f446re_small.png"
              large="Images/nucleo-f446re_large.png" public="true"/>
       <book category="overview"  name="https://www.st.com/en/evaluation-tools/nucleo-f446re.html" title="NUCLEO-F446RE Board"/>
