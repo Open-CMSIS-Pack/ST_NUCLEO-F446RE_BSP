@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP?label)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP/blob/main/LICENSE)
 [![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-F446RE_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.ci)
 
-# ST_NUCLEO-F446RE
+# ST_NUCLEO-F446RE_BSP
 
 This is the development repository for the **STMicroelectronics NUCLEO-F446RE Board Support Pack (BSP)** - a CMSIS software pack that is designed to work with all compiler toolchains (Arm Compiler, GCC, IAR, LLVM). It is released as [CMSIS software pack](https://www.keil.arm.com/packs/nucleo-f446re_bsp-keil) and therefore accessible by CMSIS-Pack enabled software development tools.
 
