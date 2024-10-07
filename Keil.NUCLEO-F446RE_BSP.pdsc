@@ -16,8 +16,8 @@
     <release version="1.0.0-dev">
       Prepared for new CMSIS-Toolbox CubeMX integration
       Board description for NUCLEO-F446RE
-      Added Blinky example (CMSIS Solution)
-      Drivers:
+      Blinky example (CMSIS Solution)
+      CMSIS-Drivers:
       - CMSIS-Driver VIO
     </release>
   </releases>
